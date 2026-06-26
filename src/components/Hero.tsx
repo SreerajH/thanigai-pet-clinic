@@ -72,7 +72,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.9, duration: 0.7 }}
           >
-            "He doesn&apos;t run unnecessary tests. He just cares."
+            &ldquo;He doesn&apos;t run unnecessary tests. He just cares.&rdquo;
           </motion.blockquote>
         </motion.div>
       </div>
